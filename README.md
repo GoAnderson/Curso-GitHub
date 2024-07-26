@@ -1,39 +1,39 @@
-*Clonar repositório:* ```git clone http .```
+**Clonar repositório:** ```git clone http .```
 
-*Verificar status:* ```git status```
+**Verificar status:** ```git status```
 
-*Adicionar arquivo:* ```git add .``` ou ```git add```
+**Adicionar arquivo:** ```git add .``` ou ```git add```
 
-*Comiitar:* ```git commit -a -m ""```
+**Comiitar:** ```git commit -a -m ""```
 
-*Enviar commit:* ```git push```
+**Enviar commit:** ```git push```
 
-*Mudar nome da pasta:* ```git mv pasta/nome_do arquivo pasta_nova/nome_do_arquivo```
+**Mudar nome da pasta:** ```git mv pasta/nome_do arquivo pasta_nova/nome_do_arquivo```
 
-*Atualizar:* ```git push```
+**Atualizar:** ```git push```
 
-*Resetar todas as modificaćões:* ```git reset --hard origin/main```
+**Resetar todas as modificaćões:* ```git reset --hard origin/main```
 
-*Criar uma branch:* ```git branch nome_da_branch```
+**Criar uma branch:** ```git branch nome_da_branch```
 
-*Deletar uma branch:* ```git branch -d``` ou -```-delete```
+**Deletar uma branch:** ```git branch -d``` ou -```-delete```
 
-*Mudar de branch:* ```git checkout nome_da_branch```
+**Mudar de branch:** ```git checkout nome_da_branch```
 
-*Mudar de branch e criar uma nova:* ```git chekcout -b nome_da_branch```
+**Mudar de branch e criar uma nova:** ```git chekcout -b nome_da_branch```
 
-*Enviar uma nova branch para o repo:* ```git push -u origin Funcionalidade_A```
+**Enviar uma nova branch para o repo:** ```git push -u origin Funcionalidade_A```
 
-*Puxando as novas branchs enviadas:* ```git fetch -a``` e depois ```git checkout nova_branch```
+**Puxando as novas branchs enviadas:** ```git fetch -a``` e depois ```git checkout nova_branch```
 
-*Colocar algo em stash:* ```git stash```
+**Colocar algo em stash:** ```git stash```
 
-*Recuperar o stash:* ```git stash apply <numero>```
+**Recuperar o stash:** ```git stash apply <numero>```
 
-*Remover todas as stashs:* ```git stash clear```
+**Remover todas as stashs:** ```git stash clear```
 
-*Remover stash específica:* ```git stash drop <nome>```
+**Remover stash específica:** ```git stash drop <nome>```
 
-*Adicionar uma Tag:* ```git tag -a v1.0 -m "Nome da tag"```
+**Adicionar uma Tag:** ```git tag -a v1.0 -m "Nome da tag"```
 
-*Ver tags usadas:* ```git tag``` 
+**Ver tags usadas:** ```git tag``` 
