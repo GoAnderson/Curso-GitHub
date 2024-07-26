@@ -4,7 +4,7 @@
 
 **Adicionar arquivo:** ```git add .``` ou ```git add```
 
-**Comiitar:** ```git commit -a -m ""```
+**Comitar:** ```git commit -a -m ""```
 
 **Enviar commit:** ```git push```
 
@@ -12,7 +12,7 @@
 
 **Atualizar:** ```git push```
 
-**Resetar todas as modificaćões:* ```git reset --hard origin/main```
+**Resetar todas as modificaćões:** ```git reset --hard origin/main```
 
 **Criar uma branch:** ```git branch nome_da_branch```
 
