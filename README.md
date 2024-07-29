@@ -6,7 +6,7 @@
 
 **Comitar:** ```git commit -a -m ""```
 
-**Enviar commit:** ```git push```
+**Enviar *primeiro* commit:** ```git push -u origin main```
 
 **Mudar nome da pasta:** ```git mv pasta/nome_do arquivo pasta_nova/nome_do_arquivo```
 
